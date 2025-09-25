@@ -43,8 +43,14 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
- ![](https://github-readme-stats.vercel.app/api?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrashadhG&theme=shadow_blue&hide_border=true)<br/>
+    <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PrashadhG&theme=shadow_blue&hide_border=true" height="160"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 </p>
 
 ---
