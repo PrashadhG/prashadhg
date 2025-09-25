@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrashadhG&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=PrashadhG&theme=radical" alt="GitHub Streak" height="160"/>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=PrashadhG&theme=radical)
 </p>
 
 ---
