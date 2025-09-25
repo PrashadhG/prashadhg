@@ -42,7 +42,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
     <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
   
