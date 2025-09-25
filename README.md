@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrashadhG&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=PrashadhG&theme=radical&date_format=M%20j%5B,%20Y%5D&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&card_width=500&cache_seconds=86400" />
+  <img src="(https://nirzak-streak-stats.vercel.app/?user=PrashadhG&theme=shadow_blue&hide_border=true" alt="Streaks" height = "160"/>
 </p>
 
 ---
