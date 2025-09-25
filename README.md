@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashadhG&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="(https://nirzak-streak-stats.vercel.app/?user=PrashadhG&theme=shadow_blue&hide_border=true" alt="Streaks" height = "160"/>
+ ![](https://github-readme-stats.vercel.app/api?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrashadhG&theme=shadow_blue&hide_border=true)<br/>
 </p>
 
 ---
