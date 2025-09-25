@@ -51,6 +51,10 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashadhG&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+
+  <!-- Contributor Stats -->
+<img src="https://github-contributor-stats.vercel.app/api?username=PrashadhG&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" height="160"/>
+
 </p>
 
 ---
