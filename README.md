@@ -3,9 +3,6 @@
 <h3 align="center">🚀 Full-Stack Developer | India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/PrashadhG">
-    <img src="https://komarev.com/ghpvc/?username=PrashadhG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/PrashadhG?tab=followers">
     <img src="https://img.shields.io/github/followers/PrashadhG?label=Followers&style=social" alt="Followers"/>
   </a>
